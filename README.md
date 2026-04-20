@@ -43,7 +43,7 @@ The "Bridge" is the Strava MCP server developed by [r-huijts](https://github.com
 
 ### 3. Get your Strava API Credentials
 You need to create a free "bridge" for your data. It takes 2 minutes:
-1. Log in to [strava.com/settings/api](https://www.strava.com/login)
+1. Log in to https://www.strava.com/login
 2. Create an app (Name it something like "My AI Coach").
 3. Category you can choose any.
 4. Website: It can be anything (e.g., http://localhost)
